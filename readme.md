@@ -5,6 +5,8 @@ these tests are to verify the functionality of the login page.
 
 ** How To run **
 
+Open in your IDE of choice and fill in the empty variables in config.py with your email and password.
+
 Set up on a Mac:
 ```
 python3 -m venv env
