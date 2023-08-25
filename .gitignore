@@ -1,0 +1,11 @@
+# virtural env
+venv
+
+# vscode settings 
+.vscode
+
+# test coverage
+.pytest_cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__
